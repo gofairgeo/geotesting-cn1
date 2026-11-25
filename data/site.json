@@ -605,7 +605,7 @@
         "style": "luxury",
         "fx": {
             "enabled": 1,
-            "effect": "god-rays",
+            "effect": "neuro-noise",
             "params": [],
             "text": "light",
             "overlay": 0,
@@ -617,7 +617,7 @@
         "custom_domain": "cn.gofair.org",
         "cross_lang_link": 1
     },
-    "updated_at": "2026-11-25 18:07:19",
+    "updated_at": "2026-11-25 18:11:08",
     "_cross_lang": {
         "enabled": true,
         "alt_url": "https:\/\/en.gofair.org\/",
